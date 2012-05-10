@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.scm">
+    <module_version install_time="1336478405281" last="true" origin="org-netbeans-modules-scm.nbm" specification_version="1.0">
+        <file crc="2103457314" name="config/Modules/org-netbeans-modules-scm.xml"/>
+        <file crc="1768758291" name="modules/org-netbeans-modules-scm.jar"/>
+    </module_version>
+</module>

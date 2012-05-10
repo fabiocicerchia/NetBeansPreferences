@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="rbremner.tocase">
+    <module_version install_time="1336556704136" last="true" origin="rbremner-tocase.nbm" specification_version="1.0">
+        <file crc="2281583286" name="config/Modules/rbremner-tocase.xml"/>
+        <file crc="2529072641" name="modules/rbremner-tocase.jar"/>
+    </module_version>
+</module>

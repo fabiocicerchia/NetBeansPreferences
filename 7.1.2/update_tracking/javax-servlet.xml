@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="javax.servlet">
+    <module_version install_time="1336464305902" last="true" origin="Certified Plugins" specification_version="2.5.0">
+        <file crc="2890563034" name="modules/javax-servlet.jar"/>
+    </module_version>
+</module>

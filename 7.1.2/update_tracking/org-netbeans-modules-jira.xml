@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.jira">
+    <module_version install_time="1336464305622" last="true" origin="Certified Plugins" specification_version="1.2.1">
+        <file crc="946273393" name="config/Modules/org-netbeans-modules-jira.xml"/>
+        <file crc="2513900511" name="modules/org-netbeans-modules-jira.jar"/>
+    </module_version>
+</module>

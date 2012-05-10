@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="">
+        <attr name="Services\DiffProviders\org-netbeans-modules-diff-builtin-provider-BuiltInDiffProvider.settings\position" intvalue="100"/>
+        <attr name="Spellcheckers\GSP\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\HTML\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\JSP\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\PHP\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\Plain\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\Properties\Hidden" boolvalue="false"/>
+        <attr name="Spellcheckers\XHTML\Hidden" boolvalue="false"/>
+        <attr name="Toolbars\Build\position" intvalue="600"/>
+        <attr name="Toolbars\Debug\position" intvalue="700"/>
+        <attr name="Toolbars\Debugging.xml\position" intvalue="1000"/>
+        <attr name="Toolbars\Edit\position" intvalue="100"/>
+        <attr name="Toolbars\File\position" intvalue="200"/>
+        <attr name="Toolbars\Memory\position" intvalue="800"/>
+        <attr name="Toolbars\UndoRedo\position" intvalue="500"/>
+    </fileobject>
+    <fileobject name="Editors">
+        <attr name="currentFontColorProfile" stringvalue="Netbeans_Twilight"/>
+    </fileobject>
+</attributes>

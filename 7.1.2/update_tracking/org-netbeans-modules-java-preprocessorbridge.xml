@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.java.preprocessorbridge">
+    <module_version install_time="1336478405110" last="true" origin="NetBeans Distribution" specification_version="1.24.1.1">
+        <file crc="872272561" name="modules/locale/org-netbeans-modules-java-preprocessorbridge_ja.jar"/>
+        <file crc="397880424" name="modules/locale/org-netbeans-modules-java-preprocessorbridge_pt_BR.jar"/>
+        <file crc="2402303609" name="modules/locale/org-netbeans-modules-java-preprocessorbridge_ru.jar"/>
+        <file crc="3573639571" name="modules/locale/org-netbeans-modules-java-preprocessorbridge_zh_CN.jar"/>
+        <file crc="1044028321" name="config/Modules/org-netbeans-modules-java-preprocessorbridge.xml"/>
+        <file crc="3491837528" name="modules/org-netbeans-modules-java-preprocessorbridge.jar"/>
+    </module_version>
+</module>

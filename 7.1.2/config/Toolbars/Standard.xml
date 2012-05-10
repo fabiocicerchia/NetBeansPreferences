@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE Configuration PUBLIC "-//NetBeans IDE//DTD toolbar 1.1//EN" "http://www.netbeans.org/dtds/toolbar1_1.dtd">
+<Configuration>
+	<Row>
+		<Toolbar name="File" visible="true" draggable="true" align="left"/>
+		<Toolbar name="Clipboard" visible="true" draggable="true" align="left"/>
+		<Toolbar name="UndoRedo" visible="true" draggable="true" align="left"/>
+		<Toolbar name="Build" visible="false" draggable="true" align="left"/>
+		<Toolbar name="Debug" visible="false" draggable="true" align="left"/>
+		<Toolbar name="Memory" visible="false" draggable="true" align="left"/>
+		<Toolbar name="Toolbar" visible="true" draggable="true" align="left"/>
+		<Toolbar name="Edit" visible="false" draggable="true" align="left"/>
+		<Toolbar name="Toolbar2" visible="true" draggable="true" align="left"/>
+		<Toolbar name="Tools" visible="true" draggable="true" align="left"/>
+		<Toolbar name="Toolbar3" visible="false" draggable="true" align="left"/>
+		<Toolbar name="QuickSearch" visible="true" draggable="true" align="right"/>
+	</Row>
+</Configuration>

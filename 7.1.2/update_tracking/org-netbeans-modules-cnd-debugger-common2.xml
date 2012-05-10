@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.debugger.common2/3">
+    <module_version install_time="1336467800852" last="true" origin="NetBeans Distribution" specification_version="3.4.2.3">
+        <file crc="93192127" name="modules/locale/org-netbeans-modules-cnd-debugger-common2_ja.jar"/>
+        <file crc="2539527746" name="modules/locale/org-netbeans-modules-cnd-debugger-common2_pt_BR.jar"/>
+        <file crc="1629147831" name="modules/locale/org-netbeans-modules-cnd-debugger-common2_ru.jar"/>
+        <file crc="1812897704" name="modules/locale/org-netbeans-modules-cnd-debugger-common2_zh_CN.jar"/>
+        <file crc="1046717998" name="bin/GdbKillProc.exe"/>
+        <file crc="2917570917" name="config/Modules/org-netbeans-modules-cnd-debugger-common2.xml"/>
+        <file crc="686691379" name="modules/org-netbeans-modules-cnd-debugger-common2.jar"/>
+    </module_version>
+</module>

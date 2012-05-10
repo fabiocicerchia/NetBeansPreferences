@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.apache.commons.discovery">
+    <module_version install_time="1336464306013" last="true" origin="Certified Plugins" specification_version="0.2.0">
+        <file crc="940462638" name="modules/org-apache-commons-discovery.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.modelui">
+    <module_version install_time="1336467799752" last="true" origin="NetBeans Distribution" specification_version="1.17.1.1">
+        <file crc="782252793" name="modules/locale/org-netbeans-modules-cnd-modelui_ja.jar"/>
+        <file crc="2400835296" name="modules/locale/org-netbeans-modules-cnd-modelui_pt_BR.jar"/>
+        <file crc="3800620648" name="modules/locale/org-netbeans-modules-cnd-modelui_ru.jar"/>
+        <file crc="927703189" name="modules/locale/org-netbeans-modules-cnd-modelui_zh_CN.jar"/>
+        <file crc="4028763329" name="config/Modules/org-netbeans-modules-cnd-modelui.xml"/>
+        <file crc="2087293231" name="modules/org-netbeans-modules-cnd-modelui.jar"/>
+    </module_version>
+</module>

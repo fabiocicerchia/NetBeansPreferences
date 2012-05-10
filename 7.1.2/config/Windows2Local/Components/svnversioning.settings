@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+    <module name="org.netbeans.modules.subversion" spec="1.19.5.42.1"/>
+    <instanceof class="java.awt.Component"/>
+    <instanceof class="java.awt.Container"/>
+    <instanceof class="java.awt.MenuContainer"/>
+    <instanceof class="java.awt.image.ImageObserver"/>
+    <instanceof class="java.io.Externalizable"/>
+    <instanceof class="java.io.Serializable"/>
+    <instanceof class="java.lang.Object"/>
+    <instanceof class="javax.accessibility.Accessible"/>
+    <instanceof class="javax.swing.JComponent"/>
+    <instanceof class="javax.swing.TransferHandler$HasGetTransferHandler"/>
+    <instanceof class="org.netbeans.modules.subversion.ui.status.SvnVersioningTopComponent"/>
+    <instanceof class="org.openide.util.HelpCtx$Provider"/>
+    <instanceof class="org.openide.util.Lookup$Provider"/>
+    <instanceof class="org.openide.windows.TopComponent"/>
+    <serialdata class="org.netbeans.modules.subversion.ui.status.SvnVersioningTopComponent">
+        ACED0005737200296F72672E6F70656E6964652E77696E646F77732E546F70436F6D706F6E656E74245265706C6163657284
+        874494BDDF6D6403000078707400436F72672E6E65746265616E732E6D6F64756C65732E73756276657273696F6E2E75692E
+        7374617475732E53766E56657273696F6E696E67546F70436F6D706F6E656E747372000F6A6176612E6C616E672E53686F72
+        74684D37133460DA5202000153000576616C7565787200106A6176612E6C616E672E4E756D62657286AC951D0B94E08B0200
+        007870000177040000000174002853756276657273696F6E202D20416C6C2050726F6A65637473202028756E6B6E6F776E20
+        6167652974000A53756276657273696F6E707372002C6F72672E6E65746265616E732E6D6F64756C65732E73756276657273
+        696F6E2E7574696C2E436F6E7465787400000000000000010200034C000A6578636C7573696F6E737400104C6A6176612F75
+        74696C2F4C6973743B4C000D66696C746572656446696C657371007E00094C0009726F6F7446696C657371007E0009787073
+        7200136A6176612E7574696C2E41727261794C6973747881D21D99C7619D03000149000473697A6578700000000077040000
+        000A787371007E000B0000000077040000000A787371007E000B0000000077040000000A7874000D416C6C2050726F6A6563
+        7473207708000000000000000078
+    </serialdata>
+</settings>

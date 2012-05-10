@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.api.model/1">
+    <module_version install_time="1336467800406" last="true" origin="NetBeans Distribution" specification_version="1.15.1.1">
+        <file crc="4152144968" name="modules/locale/org-netbeans-modules-cnd-api-model_ja.jar"/>
+        <file crc="521282445" name="modules/locale/org-netbeans-modules-cnd-api-model_pt_BR.jar"/>
+        <file crc="1046536474" name="modules/locale/org-netbeans-modules-cnd-api-model_ru.jar"/>
+        <file crc="320719596" name="modules/locale/org-netbeans-modules-cnd-api-model_zh_CN.jar"/>
+        <file crc="4037223955" name="config/Modules/org-netbeans-modules-cnd-api-model.xml"/>
+        <file crc="366815107" name="modules/org-netbeans-modules-cnd-api-model.jar"/>
+    </module_version>
+</module>

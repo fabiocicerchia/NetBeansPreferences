@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<windowmanager version="2.1">
+    <main-window>
+  <joined-properties
+   x="1912"
+   y="-8"
+   width="1936"
+   height="1096"
+   relative-x="0.0"
+   relative-y="0.0"
+   relative-width="0.0"
+   relative-height="0.0"
+   centered-horizontally="false"
+   centered-vertically="false"
+   maximize-if-width-below="0"
+   maximize-if-height-below="0"
+   frame-state="6"
+/>
+  <separated-properties
+   x="192"
+   y="104"
+   width="1536"
+   height="83"
+   relative-x="0.0"
+   relative-y="0.0"
+   relative-width="0.0"
+   relative-height="0.0"
+   centered-horizontally="false"
+   centered-vertically="false"
+   frame-state="0"
+/>
+  </main-window>
+    <editor-area state="joined" frame-state="0">
+  <constraints>
+  <path orientation="horizontal" number="60" weight="0.6943573667711599" />
+  <path orientation="vertical" number="40" weight="0.6754478398314014" />
+  <path orientation="horizontal" number="40" weight="0.7" />
+  </constraints>
+  <bounds x="633" y="249" width="806" height="457" />
+    </editor-area>
+    <screen width="1920" height="1080"/>
+    <active-mode name="editor"/>
+    <toolbar configuration="Standard" preferred-icon-size="16"/>
+    <tc-list>
+  <tc-id id="MultiView-css#002Esource#007Ctext#002Ehistory#007C"/>
+  <tc-id id="MultiView-php#002Esou6DA18E8Fxt#002Ehistory#007C_1"/>
+  <tc-id id="MultiView-php#002Esou46904385t#002Ehistory#007C_14"/>
+  <tc-id id="MultiView-php#002Esou46904383t#002Ehistory#007C_12"/>
+  <tc-id id="MultiView-php#002Esou6DA18E90xt#002Ehistory#007C_2"/>
+  <tc-id id="MultiView-php#002Esource#007Ctext#002Ehistory#007C"/>
+  <tc-id id="MultiView-php#002Esou46904386t#002Ehistory#007C_15"/>
+  <tc-id id="output"/>
+  <tc-id id="TaskListTopComponent"/>
+  <tc-id id="projectTabLogical_tc"/>
+  <tc-id id="search-results"/>
+  <tc-id id="MultiView-php#002Esou6DA18E93xt#002Ehistory#007C_5"/>
+  <tc-id id="MultiView-php#002Esou6DA18E91xt#002Ehistory#007C_3"/>
+  <tc-id id="services"/>
+  <tc-id id="TerminalContainerTopComponent"/>
+  <tc-id id="projectTab_tc"/>
+  <tc-id id="navigatorTC"/>
+    </tc-list>
+</windowmanager>

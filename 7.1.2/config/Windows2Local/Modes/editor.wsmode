@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mode version="2.4">
+    <name unique="editor"  />
+  <kind type="editor" />
+  <state type="joined"  />
+  <bounds x="0" y="0" width="0" height="0" />
+  <frame state="0"/>
+    <active-tc  id="MultiView-css#002Esource#007Ctext#002Ehistory#007C"  prev-id="MultiView-php#002Esou6DA18E90xt#002Ehistory#007C_2" />
+    <empty-behavior permanent="true"/>
+</mode>

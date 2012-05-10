@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="net.java.xpath">
+    <module_version install_time="1336478405172" last="true" origin="1315175867_net-java-xpath.nbm" specification_version="1.0">
+        <file crc="2895162599" name="config/Modules/net-java-xpath.xml"/>
+        <file crc="1241572616" name="modules/net-java-xpath.jar"/>
+    </module_version>
+</module>

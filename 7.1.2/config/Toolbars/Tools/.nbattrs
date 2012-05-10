@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="LocalTerminalAction.shadow">
+        <attr name="position" intvalue="90"/>
+    </fileobject>
+    <fileobject name="org-netbeans-core-ide-ServicesTabAction.shadow">
+        <attr name="position" intvalue="-85"/>
+    </fileobject>
+    <fileobject name="org-netbeans-core-io-ui-IOWindowAction.shadow">
+        <attr name="position" intvalue="115"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-navigator-ShowNavigatorAction.shadow">
+        <attr name="position" intvalue="-60"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-project-ui-logical-tab-action.shadow">
+        <attr name="position" intvalue="-160"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-project-ui-physical-tab-action.shadow">
+        <attr name="position" intvalue="-110"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-regexplugin-ToolMenuAction.shadow">
+        <attr name="position" intvalue="133"/>
+    </fileobject>
+    <fileobject name="org-netbeans-modules-tasklist-ui-TaskListAction.shadow">
+        <attr name="position" intvalue="127"/>
+    </fileobject>
+</attributes>

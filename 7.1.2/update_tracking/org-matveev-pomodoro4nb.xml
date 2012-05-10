@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.matveev.pomodoro4nb">
+    <module_version install_time="1336637442691" last="true" origin="1322887409_org-matveev-pomodoro4nb.nbm" specification_version="1.0.1">
+        <file crc="1473842440" name="config/Modules/org-matveev-pomodoro4nb.xml"/>
+        <file crc="755479391" name="modules/org-matveev-pomodoro4nb.jar"/>
+    </module_version>
+</module>

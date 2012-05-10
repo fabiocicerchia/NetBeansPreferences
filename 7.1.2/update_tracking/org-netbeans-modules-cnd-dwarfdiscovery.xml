@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.dwarfdiscovery">
+    <module_version install_time="1336467800629" last="true" origin="NetBeans Distribution" specification_version="1.16.1.1">
+        <file crc="3057668362" name="modules/locale/org-netbeans-modules-cnd-dwarfdiscovery_ja.jar"/>
+        <file crc="46915746" name="modules/locale/org-netbeans-modules-cnd-dwarfdiscovery_pt_BR.jar"/>
+        <file crc="767589078" name="modules/locale/org-netbeans-modules-cnd-dwarfdiscovery_ru.jar"/>
+        <file crc="2363215295" name="modules/locale/org-netbeans-modules-cnd-dwarfdiscovery_zh_CN.jar"/>
+        <file crc="4150589541" name="config/Modules/org-netbeans-modules-cnd-dwarfdiscovery.xml"/>
+        <file crc="496250853" name="modules/org-netbeans-modules-cnd-dwarfdiscovery.jar"/>
+    </module_version>
+</module>

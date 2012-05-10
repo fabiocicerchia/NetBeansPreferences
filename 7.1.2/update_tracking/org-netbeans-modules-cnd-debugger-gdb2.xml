@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.debugger.gdb2/1">
+    <module_version install_time="1336467798193" last="true" origin="NetBeans Distribution" specification_version="1.4.2.1">
+        <file crc="374915106" name="modules/locale/org-netbeans-modules-cnd-debugger-gdb2_ja.jar"/>
+        <file crc="1790112340" name="modules/locale/org-netbeans-modules-cnd-debugger-gdb2_pt_BR.jar"/>
+        <file crc="2358411754" name="modules/locale/org-netbeans-modules-cnd-debugger-gdb2_ru.jar"/>
+        <file crc="104814199" name="modules/locale/org-netbeans-modules-cnd-debugger-gdb2_zh_CN.jar"/>
+        <file crc="3298497628" name="config/Modules/org-netbeans-modules-cnd-debugger-gdb2.xml"/>
+        <file crc="2545926977" name="modules/org-netbeans-modules-cnd-debugger-gdb2.jar"/>
+    </module_version>
+</module>

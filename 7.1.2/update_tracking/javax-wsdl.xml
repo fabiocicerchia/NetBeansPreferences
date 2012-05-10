@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="javax.wsdl">
+    <module_version install_time="1336464305542" last="true" origin="Certified Plugins" specification_version="1.6.0">
+        <file crc="138114950" name="config/Modules/javax-wsdl.xml"/>
+        <file crc="3463592107" name="modules/ext/wsdl4j-1.6.2.jar"/>
+        <file crc="2906629393" name="modules/javax-wsdl.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="info.jiripospisil.pomodoro">
+    <module_version install_time="1336556866096" last="true" origin="1283202966177_pomodoro-timerv0.1.nbm" specification_version="0.1">
+        <file crc="711381960" name="config/Modules/info-jiripospisil-pomodoro.xml"/>
+        <file crc="4226122643" name="modules/info-jiripospisil-pomodoro.jar"/>
+    </module_version>
+</module>

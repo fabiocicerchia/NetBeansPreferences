@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="Clipboard">
+        <attr name="position" intvalue="300"/>
+    </fileobject>
+    <fileobject name="Standard.xml">
+        <attr name="position" intvalue="900"/>
+    </fileobject>
+    <fileobject name="Toolbar2">
+        <attr name="position" intvalue="1100"/>
+    </fileobject>
+    <fileobject name="Tools">
+        <attr name="position" intvalue="400"/>
+    </fileobject>
+</attributes>

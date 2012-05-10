@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="CssPreviewTCWsmode">
+        <attr name="WinSys-TCRef-Order" stringvalue="CssPreviewTC"/>
+    </fileobject>
+    <fileobject name="bottomSlidingSide">
+        <attr name="WinSys-TCRef-Order" stringvalue="TerminalContainerTopComponent/output/search-results/Pomodoro4NbTopComponent/TaskListTopComponent"/>
+    </fileobject>
+    <fileobject name="commonpalette">
+        <attr name="WinSys-TCRef-Order" stringvalue="CommonPalette"/>
+        <attr name="_palette_visible__empty_" boolvalue="false"/>
+    </fileobject>
+    <fileobject name="editor">
+        <attr name="WinSys-TCRef-Order" stringvalue="CoverageReportTopComponent/DisassemblerWindow/regexTopComponent/regexTopComponent_1/QueryTopComponent/MultiView-css#002Esource#007Ctext#002Ehistory#007C/MultiView-php#002Esource#007Ctext#002Ehistory#007C/MultiView-php#002Esou6DA18E8Fxt#002Ehistory#007C_1/MultiView-php#002Esou6DA18E90xt#002Ehistory#007C_2/MultiView-php#002Esou6DA18E91xt#002Ehistory#007C_3/MultiView-php#002Esou6DA18E93xt#002Ehistory#007C_5/MultiView-php#002Esou46904383t#002Ehistory#007C_12/MultiView-php#002Esou46904385t#002Ehistory#007C_14/MultiView-php#002Esou46904386t#002Ehistory#007C_15"/>
+    </fileobject>
+    <fileobject name="explorer">
+        <attr name="WinSys-TCRef-Order" stringvalue="favorites/classview"/>
+    </fileobject>
+    <fileobject name="leftSlidingSide">
+        <attr name="WinSys-TCRef-Order" stringvalue="projectTabLogical_tc/projectTab_tc/services"/>
+    </fileobject>
+    <fileobject name="navigator">
+        <attr name="WinSys-TCRef-Order" stringvalue="PhpHierarchyTopComponent/NavigatorTopComponent"/>
+    </fileobject>
+    <fileobject name="output">
+        <attr name="WinSys-TCRef-Order" stringvalue="refactoring-preview/svnversioning/watchesView/localsView/resultsView/callstackView/breakpointsView/sources/sessionsView/threadsView/versioning_output/gsf-testrunner-results/find-usages/StyleBuilderTC/hgversioningTC/GitVersioning/GitRepositories/ReporterResultTopComponent/MacroExpansionTopComponent/PioTopComponent/MemoryWindow/RegistersWindow/ConsoleTopComponent/CallGraphTopComponent/EvaluationWindow/XPathTopComponent/threads/watches/sessions/locals"/>
+    </fileobject>
+    <fileobject name="properties">
+        <attr name="WinSys-TCRef-Order" stringvalue="properties"/>
+    </fileobject>
+    <fileobject name="rightSlidingSide">
+        <attr name="WinSys-TCRef-Order" stringvalue="navigatorTC"/>
+    </fileobject>
+</attributes>

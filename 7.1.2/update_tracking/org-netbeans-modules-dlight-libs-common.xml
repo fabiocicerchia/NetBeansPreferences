@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.dlight.libs.common">
+    <module_version install_time="1336467799259" last="true" origin="NetBeans Distribution" specification_version="1.11.1.1">
+        <file crc="2242529422" name="modules/locale/org-netbeans-modules-dlight-libs-common_ja.jar"/>
+        <file crc="2858740317" name="modules/locale/org-netbeans-modules-dlight-libs-common_pt_BR.jar"/>
+        <file crc="1116008059" name="modules/locale/org-netbeans-modules-dlight-libs-common_ru.jar"/>
+        <file crc="1975145059" name="modules/locale/org-netbeans-modules-dlight-libs-common_zh_CN.jar"/>
+        <file crc="58279454" name="config/Modules/org-netbeans-modules-dlight-libs-common.xml"/>
+        <file crc="2254913516" name="modules/org-netbeans-modules-dlight-libs-common.jar"/>
+    </module_version>
+</module>

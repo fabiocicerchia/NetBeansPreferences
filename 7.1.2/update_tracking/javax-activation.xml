@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="javax.activation">
+    <module_version install_time="1336464305742" last="true" origin="Certified Plugins" specification_version="1.1.0">
+        <file crc="513045509" name="modules/javax-activation.jar"/>
+    </module_version>
+</module>

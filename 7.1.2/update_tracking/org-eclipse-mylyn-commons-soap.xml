@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.eclipse.mylyn.commons.soap">
+    <module_version install_time="1336464305810" last="true" origin="Certified Plugins" specification_version="3.4.0">
+        <file crc="1595871788" name="modules/org-eclipse-mylyn-commons-soap.jar"/>
+    </module_version>
+</module>

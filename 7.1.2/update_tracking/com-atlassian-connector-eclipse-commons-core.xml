@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="com.atlassian.connector.eclipse.commons.core">
+    <module_version install_time="1336464305794" last="true" origin="Certified Plugins" specification_version="3.0.0">
+        <file crc="2955830532" name="modules/com-atlassian-connector-eclipse-commons-core.jar"/>
+    </module_version>
+</module>

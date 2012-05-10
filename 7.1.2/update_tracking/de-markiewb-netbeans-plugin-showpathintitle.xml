@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="de.markiewb.netbeans.plugin.showpathintitle">
+    <module_version install_time="1336556704091" last="true" origin="1336224049_de-markiewb-netbeans-plugin-showpathintitle-1.2.nbm" specification_version="1.2">
+        <file crc="2671804498" name="config/Modules/de-markiewb-netbeans-plugin-showpathintitle.xml"/>
+        <file crc="4014893552" name="modules/de-markiewb-netbeans-plugin-showpathintitle.jar"/>
+    </module_version>
+</module>

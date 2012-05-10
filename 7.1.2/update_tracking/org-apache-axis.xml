@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.apache.axis">
+    <module_version install_time="1336464305861" last="true" origin="Certified Plugins" specification_version="1.4.0">
+        <file crc="1018153759" name="modules/org-apache-axis.jar"/>
+    </module_version>
+</module>

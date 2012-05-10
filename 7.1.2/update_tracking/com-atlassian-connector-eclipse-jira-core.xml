@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="com.atlassian.connector.eclipse.jira.core">
+    <module_version install_time="1336464305992" last="true" origin="Certified Plugins" specification_version="3.0.0">
+        <file crc="2364457958" name="modules/com-atlassian-connector-eclipse-jira-core.jar"/>
+    </module_version>
+</module>

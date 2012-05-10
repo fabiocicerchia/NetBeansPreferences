@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.cnd.toolchain">
+    <module_version install_time="1336467799102" last="true" origin="NetBeans Distribution" specification_version="1.7.2.1">
+        <file crc="3266363738" name="modules/locale/org-netbeans-modules-cnd-toolchain_ja.jar"/>
+        <file crc="3991130473" name="modules/locale/org-netbeans-modules-cnd-toolchain_pt_BR.jar"/>
+        <file crc="1857726676" name="modules/locale/org-netbeans-modules-cnd-toolchain_ru.jar"/>
+        <file crc="2899614402" name="modules/locale/org-netbeans-modules-cnd-toolchain_zh_CN.jar"/>
+        <file crc="1955160634" name="config/Modules/org-netbeans-modules-cnd-toolchain.xml"/>
+        <file crc="4030691167" name="modules/org-netbeans-modules-cnd-toolchain.jar"/>
+    </module_version>
+</module>

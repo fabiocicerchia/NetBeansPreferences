@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.regexplugin/1">
+    <module_version install_time="1336478405593" last="true" origin="1212745448608_org-netbeans-modules-regexplugin.nbm" specification_version="0.1">
+        <file crc="2190558887" name="config/Modules/org-netbeans-modules-regexplugin.xml"/>
+        <file crc="3904762193" name="modules/org-netbeans-modules-regexplugin.jar"/>
+    </module_version>
+</module>
